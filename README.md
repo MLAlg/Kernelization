@@ -1,5 +1,5 @@
 # Kernelization
-Kernelized algorithms,
+
 unsupervised learning,
 
 vectorial and non-vectorial databases
